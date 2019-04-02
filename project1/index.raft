@@ -2,7 +2,7 @@ import DOM
 let new = DOM.div({ color: "green" }, ["antheuno"])
 let paragraphStyle = { padding: "5px" }
 let myTextbox = DOM.div(style: paragraphStyle,
-["Sed posuere consectetur est at lobortis."])
+["Project1"])
 let buttonStyle = {
   border: "1px solid black",
   display: "inline-block",
